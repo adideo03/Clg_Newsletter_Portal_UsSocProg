@@ -1,7 +1,7 @@
 # CN_CP
 <h2>Algo</h2> </br>
 
-So basically to start coding in java we need to set up clients and one server</br></br>
+
 
 <b>Client Side</b></br>
 Here we will set up a server locally (later on other computer JRE)</br>
